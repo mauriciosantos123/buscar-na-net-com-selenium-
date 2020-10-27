@@ -103,8 +103,8 @@ namespace BuscaNcm
                     var clicar = driver.FindElement(By.TagName("input"));
                     clicar.Click();
                     //LOGIM_______________________________________________________________________________
-                    string login = "onu16035";
-                    string senha = "gomide2";
+                    string login = "";
+                    string senha = "";
 
                     var userInput = driver.FindElementByName("Log");
                     userInput.SendKeys(login);
