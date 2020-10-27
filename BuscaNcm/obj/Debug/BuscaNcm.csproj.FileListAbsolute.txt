@@ -1,0 +1,15 @@
+C:\Users\DESENVOLVIMENTO\source\repos\BuscaNcm\BuscaNcm\bin\Debug\BuscaNcm.exe.config
+C:\Users\DESENVOLVIMENTO\source\repos\BuscaNcm\BuscaNcm\bin\Debug\BuscaNcm.exe
+C:\Users\DESENVOLVIMENTO\source\repos\BuscaNcm\BuscaNcm\bin\Debug\BuscaNcm.pdb
+C:\Users\DESENVOLVIMENTO\source\repos\BuscaNcm\BuscaNcm\obj\Debug\BuscaNcm.csprojAssemblyReference.cache
+C:\Users\DESENVOLVIMENTO\source\repos\BuscaNcm\BuscaNcm\obj\Debug\BuscaNcm.Form1.resources
+C:\Users\DESENVOLVIMENTO\source\repos\BuscaNcm\BuscaNcm\obj\Debug\BuscaNcm.Properties.Resources.resources
+C:\Users\DESENVOLVIMENTO\source\repos\BuscaNcm\BuscaNcm\obj\Debug\BuscaNcm.csproj.GenerateResource.cache
+C:\Users\DESENVOLVIMENTO\source\repos\BuscaNcm\BuscaNcm\obj\Debug\BuscaNcm.csproj.CoreCompileInputs.cache
+C:\Users\DESENVOLVIMENTO\source\repos\BuscaNcm\BuscaNcm\obj\Debug\BuscaNcm.exe
+C:\Users\DESENVOLVIMENTO\source\repos\BuscaNcm\BuscaNcm\obj\Debug\BuscaNcm.pdb
+C:\Users\DESENVOLVIMENTO\source\repos\BuscaNcm\BuscaNcm\bin\Debug\WebDriver.dll
+C:\Users\DESENVOLVIMENTO\source\repos\BuscaNcm\BuscaNcm\bin\Debug\WebDriver.Support.dll
+C:\Users\DESENVOLVIMENTO\source\repos\BuscaNcm\BuscaNcm\bin\Debug\WebDriver.xml
+C:\Users\DESENVOLVIMENTO\source\repos\BuscaNcm\BuscaNcm\bin\Debug\WebDriver.Support.xml
+C:\Users\DESENVOLVIMENTO\source\repos\BuscaNcm\BuscaNcm\obj\Debug\BuscaNcm.csproj.CopyComplete
